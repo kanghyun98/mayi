@@ -1,0 +1,14 @@
+.video {
+  position: relative;
+  /* border-radius: 50%; */
+}
+
+.video-full {
+  width: 100%;
+  height: 100%;
+}
+
+.video-split {
+  width: 48%;
+  height: 48%;
+}
